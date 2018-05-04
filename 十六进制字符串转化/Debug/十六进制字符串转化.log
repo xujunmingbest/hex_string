@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\c++\十六进制字符串转化\十六进制字符串转化\main.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\十六进制字符串转化\十六进制字符串转化\main.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+  十六进制字符串转化.vcxproj -> E:\c++\十六进制字符串转化\Debug\十六进制字符串转化.exe
+  十六进制字符串转化.vcxproj -> E:\c++\十六进制字符串转化\Debug\十六进制字符串转化.pdb (Partial PDB)
